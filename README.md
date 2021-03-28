@@ -15,7 +15,7 @@ All notebooks can be copied from and run on Google Colab:
 
   https://drive.google.com/drive/u/4/folders/15Bn-atF_3gzptIXQSQ4EEzZ057kLO9lM
   
-Data for some of the notebooks is in:
+Data for the notebooks is in:
 
   https://drive.google.com/drive/u/4/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
 
