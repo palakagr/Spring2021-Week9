@@ -2,17 +2,21 @@
 
 ## Week9: Deep Learning - Part2
 
-This repository contains multiple DL examples to present a selection of different components and variations of DL applications. We will let the intuition guide us in each example, aiming to have a "high-level" understanding of the general concepts.
+This week we will first review a gentle DL tutorial, aiming to have a "high-level" understanding of the general concepts. We will then see multiple DL examples with a selection of different components and variations of DL applications. 
 
+- [A gentle DL turorial](https://www.slideshare.net/LuMa921/deep-learning-a-visual-introduction)
 - [A DL case study: Painters Challenge](DL_Painters.pdf)
+- [Data augmentation with cats](DLBasics_KerasDataAugmentation.ipynb)
+- [An improved DL model using CNN](DLBasics_SimpleCNN.ipynb)
 - [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
 - [What does a convolutional layer do?](DL_VisConvFilters.ipynb)
-- [Using pre-trained models](DLBasics_TransferLearning.ipynb)
-- [An example for a more complex architecture using Keras](DL_Keras_SiameseNet_MNIST.ipynb)
-- [Homework Assignment #5](hw5.ipynb)
 
-All notebooks are in Colab:
- https://drive.google.com/drive/folders/1br4IZGPH-ybkQvQWVHBIdorbwzqrmFxn?usp=sharing
- 
-As well as the data:
- https://drive.google.com/drive/folders/15dLkXRSt1iFGsBDc2zw_w3QkMhjXE2OE?usp=sharing
+All notebooks can be copied from and run on Google Colab:
+
+  https://drive.google.com/drive/u/4/folders/15Bn-atF_3gzptIXQSQ4EEzZ057kLO9lM
+  
+Data for some of the notebooks is in:
+
+  https://drive.google.com/drive/u/4/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
+
+This is a highly practical session. Please be ready to run the code on your own computers during ans/or after the class. More background information will follow in next classes!
