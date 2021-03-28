@@ -13,7 +13,7 @@ This week we will first review a gentle DL tutorial, aiming to have a "high-leve
 
 All notebooks can be copied from and run on Google Colab:
 
-  https://drive.google.com/drive/u/4/folders/15Bn-atF_3gzptIXQSQ4EEzZ057kLO9lM
+  https://drive.google.com/drive/u/4/folders/14TipU_b9r-fkoXVxSRJFKTfAzKro2EJ5
   
 Data for the notebooks is in:
 
