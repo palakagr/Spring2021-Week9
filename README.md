@@ -20,3 +20,6 @@ Data for the notebooks is in:
   https://drive.google.com/drive/u/4/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
 
 This is a highly practical session. Please be ready to run the code on your own computers during and/or after the class. More background information will follow in next classes!
+
+Midterm poll
+https://docs.google.com/forms/d/e/1FAIpQLScXj9Df4lj6jolI1Wtb0XQIArhi580fsPPJ0NJJ9W2vCU7ZtA/viewform?usp=sf_link
